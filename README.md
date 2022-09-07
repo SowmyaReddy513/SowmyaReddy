@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Sowmyareddy513](github.com/Sowmyareddy513)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
